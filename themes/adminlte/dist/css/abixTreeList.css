@@ -1,0 +1,10 @@
+.abix-tree-list li {
+    list-style: none;
+    font-size: 9pt;
+}
+
+.abix-tree-list .collapsed span.icon, 
+.abix-tree-list .expanded span.icon {
+    margin-right: 6px;
+    cursor: pointer;
+}

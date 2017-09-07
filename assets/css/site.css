@@ -1,0 +1,5 @@
+
+.error-field { border: 1px solid red; color: red; }
+.error-ajaxfield-msg p { color: red; width: 300px; float: left; margin: 3px	0	3px	100px; padding: 0; } 
+#error-cont p { width: 900px; }
+.ciajaxloader { display: none; padding: 5px; }
